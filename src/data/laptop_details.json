@@ -1,0 +1,26 @@
+{
+  "1": {
+    "LaptopDetail": {
+      "Brand": "Dell",
+      "Model": "Inspiron",
+      "Processor": "i7-10510U",
+      "RamCapacity": "16GB",
+      "RamType": "DDR4",
+      "StorageCapacity": "512GB SSD",
+      "BatteryStatus": "NO"
+    },
+    "Text": "laptop: dell inspiron; processor i7-10510u ; ram 16gb; 512gb ssd missing battery"
+  },
+  "2": {
+    "LaptopDetail": {
+      "Brand": "Apple",
+      "Model": "MacBook Pro",
+      "Processor": "M1",
+      "RamCapacity": "8GB",
+      "RamType": "LPDDR4X",
+      "StorageCapacity": "256GB SSD",
+      "BatteryStatus": "NO"
+    },
+    "Text": "macbook pro with m1 chip, 8gb ram, 256 gb ssd storage battery removed"
+  }
+}

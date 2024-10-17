@@ -1,0 +1,8 @@
+{
+    "listen": "0.0.0.0:8080",
+    "open_ai": {
+        "api_key" : "api_key",
+         "temperature" : 0.1
+    },
+    "laptop_details_file_name": "./data/laptop_details.json"
+}
